@@ -94,3 +94,17 @@ label {
     margin-top: 0px;
     width: 210px;
 }
+
+.email_input:focus+.email_label {
+    top: 0.2rem;
+    font-size: 10px;
+}
+
+.email_input:not(:placeholder-shown).email_input:not(:focus)+.email_label {
+    top: 0.2rem;
+    font-size: 10px;
+}
+
+.email_input:focus-visible {
+    outline: none;
+}
