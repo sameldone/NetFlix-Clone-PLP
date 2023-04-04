@@ -1,3 +1,3 @@
 # NetFlix-Clone-PLP
 This a netflix website clone for my final plp project
-The 
+This is the final PLP-Africa project.
